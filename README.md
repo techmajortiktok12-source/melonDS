@@ -1,7 +1,7 @@
 <p align="center"><img src="file:///C:/Users/NAEL.BARBEAU/Downloads/MajorEmulator_128x128.png"></p>
 <h2 align="center"><b>MajorEmulator</b></h2>
 <p align="center">
-<a href="http://melonds.kuribo64.net/" alt="melonDS website"><img src="https://img.shields.io/badge/website-melonds.kuribo64.net-%2331352e.svg"></a>
+<a href="http://melonds.kuribo64.net/" alt="melonDS website"><img src="file:///C:/Users/NAEL.BARBEAU/Downloads/MajorEmulator_128x128.png"></a>
 <a href="http://melonds.kuribo64.net/downloads.php" alt="Release: 1.1"><img src="https://img.shields.io/badge/release-1.1-%235c913b.svg"></a>
 <a href="https://www.gnu.org/licenses/gpl-3.0" alt="License: GPLv3"><img src="https://img.shields.io/badge/License-GPL%20v3-%23ff554d.svg"></a>
 <a href="https://kiwiirc.com/client/irc.badnik.net/?nick=IRC-Source_?#melonds" alt="IRC channel: #melonds"><img src="https://img.shields.io/badge/IRC%20chat-%23melonds-%23dd2e44.svg"></a>
