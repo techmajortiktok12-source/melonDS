@@ -1,4 +1,4 @@
-<p align="center"><img src="file:///C:/Users/NAEL.BARBEAU/Downloads/ChatGPT%20Image%2023%20sept.%202026,%2021_30_51.png"></p>
+<p align="center"><img src="file:///C:/Users/NAEL.BARBEAU/Downloads/MajorEmulator_128x128.png"></p>
 <h2 align="center"><b>MajorEmulator</b></h2>
 <p align="center">
 <a href="http://melonds.kuribo64.net/" alt="melonDS website"><img src="https://img.shields.io/badge/website-melonds.kuribo64.net-%2331352e.svg"></a>
